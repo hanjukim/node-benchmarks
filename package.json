@@ -1,0 +1,12 @@
+{
+  "name": "node-benchmarks",
+  "version": "1.0.0",
+  "description": "Various Benchmarks for Node.js",
+  "main": "index.js",
+  "repository": "https://github.com/hanjukim/node-benchmarks",
+  "author": "hanjukim@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
