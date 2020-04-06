@@ -1,6 +1,6 @@
 {
   "name": "node-benchmarks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Various Benchmarks for Node.js",
   "main": "index.js",
   "repository": "https://github.com/hanjukim/node-benchmarks",
