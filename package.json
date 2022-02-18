@@ -10,7 +10,7 @@
     "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "benchmark": "^2.1.4",
-    "crypto-js": "file:crypto-js-4.0.0-custom.tgz",
+    "jscrypto": "^1.0.3",
     "uuid": "^8.3.0"
   }
 }
