@@ -1,10 +1,8 @@
 # Node Benchmarks
 Various Benchmarks for Node.js
 
-Import test case from https://jsperf.com/
-
 ## Example
-https://jsperf.com/replace-vs-split-join-vs-replaceall/78
+$ node commify
 ```
 replace literal RegExp x 51,858 ops/sec ±1.24% (94 runs sampled)
 split.join literal RegExp x 34,449 ops/sec ±2.82% (93 runs sampled)

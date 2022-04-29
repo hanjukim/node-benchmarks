@@ -1,6 +1,6 @@
 const { Suite } = require('benchmark');
 const suite = new Suite('find duplicate element in array', { minTime: 10000 });
-const uuid = require('uuid')
+const uuid = require('uuid').v4
 
 const uuids = [];
 
